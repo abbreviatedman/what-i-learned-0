@@ -10,6 +10,15 @@ This is a great way to:
 * And practice your content creation skills.
 
 
+### How Deep You Should Go
+
+You're NOT writing a manual, here. It doesn't have to be as detailed as a cheatsheet! More specifically, you can talk about things in plain English.
+
+Explain it to your self from before you started. That student from a week ago didn't have the underlying knowledge to know what `bash` or `git` or markdown are, which means you'll have to explain things GENERALLY, avoiding specific terminology whenever possible.
+
+Don't worry too much about the format overall, though. This is our first time, and we'll converge on a common style for this as we go!
+
+
 ### Tools You'll Practice
 
 * bash
